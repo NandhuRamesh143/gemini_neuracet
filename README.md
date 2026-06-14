@@ -1,6 +1,6 @@
-# NeuraCET
+# Gemini-NeuraCET Terminal
 
-NeuraCET is a terminal-based AI assistant built in Python using Google's Gemini API. It combines conversational AI with tool calling, allowing Gemini to access real-time information from external services such as NewsAPI when needed.
+Gemini-NeuraCET Terminal is a terminal-based AI assistant built in Python using Google's Gemini API. It combines conversational AI with tool calling, allowing Gemini to access real-time information from external services such as NewsAPI when needed.
 
 ## Features
 
